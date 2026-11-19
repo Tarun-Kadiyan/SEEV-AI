@@ -1,0 +1,1 @@
+The app is styled with CSS inside app.py; no Streamlit configuration is required.

@@ -1,0 +1,378 @@
+resume_id,candidate_name,candidate_role,resume_text
+R01,Aditi Rao,Senior Java Backend Engineer,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Aditi Rao
+Senior Java Backend Engineer | Bengaluru, India | 6 years experience
+aditi_rao@example.com | +91 90000 12000 | portfolio.example/aditi_rao
+PROFILE
+Senior Java Backend Engineer with 6 years of fictional professional experience, focused on practical delivery, team
+collaboration and measurable project outcomes.
+TECHNICAL SKILLS
+ Java 17, Spring Boot, Hibernate, Spring Security
+ PostgreSQL, Redis, Kafka, Elasticsearch
+ Docker, Kubernetes, AWS ECS, Terraform
+ JUnit 5, Mockito, GitHub Actions, OpenTelemetry
+WORK EXPERIENCE
+Senior Backend Engineer | CedarLoop Commerce (fictional) | 2022 - 2026
+Led migration of a monolithic checkout service into six domain services; introduced tracing and improved p95 checkout
+latency by 31%.
+Java Developer | MapleByte Software (fictional) | 2020 - 2022
+Built secure REST endpoints and database migration scripts for an order processing platform.
+PROJECTS
+High-volume Checkout Engine - Designed idempotent payment APIs, Kafka retry queues and Redis caching for a
+synthetic 100k-order load test.
+Service Observability Toolkit - Created OpenTelemetry dashboards and automated performance regression checks.
+EDUCATION
+B.Tech, Computer Science - fictional Eastern Valley University (2020)
+TRAINING
+AWS Developer Associate - fictional training record
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R02,Rohan Malhotra,Junior Frontend Developer,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Rohan Malhotra
+Junior Frontend Developer | Chandigarh, India | 1 year experience
+rohan_malhotra@example.com | +91 90000 12137 | portfolio.example/rohan_malhotra
+PROFILE
+Junior Frontend Developer with 1 year of fictional professional experience, focused on practical delivery, team collaboration
+and measurable project outcomes.
+TECHNICAL SKILLS
+ HTML5, CSS3, JavaScript ES6, TypeScript
+ React, Redux Toolkit, Vite, Tailwind CSS
+ Figma handoff, responsive layouts, accessibility basics
+ Jest, React Testing Library, Git
+WORK EXPERIENCE
+Frontend Developer | AmberCanvas Studio (fictional) | 2025 - 2026
+Converted Figma prototypes into accessible React components and reduced layout bugs across mobile devices.
+PROJECTS
+Campus Event Portal - Created a React event-registration site with searchable listings and client-side validation.
+Weather Cards UI - Implemented a responsive weather interface using mocked API data and reusable components.
+EDUCATION
+BCA - fictional Riverstone College (2025)
+TRAINING
+Frontend Web Development Bootcamp - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R03,Meera Iyer,Machine Learning Engineer,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Meera Iyer
+Machine Learning Engineer | Hyderabad, India | 4 years experience
+meera_iyer@example.com | +91 90000 12274 | portfolio.example/meera_iyer
+PROFILE
+Machine Learning Engineer with 4 years of fictional professional experience, focused on practical delivery, team
+collaboration and measurable project outcomes.
+TECHNICAL SKILLS
+ Python, pandas, NumPy, scikit-learn, PyTorch
+ XGBoost, feature engineering, model evaluation
+ MLflow, FastAPI, Docker, Airflow
+ SQL, experiment tracking, SHAP, time-series forecasting
+WORK EXPERIENCE
+ML Engineer | LumenForge Analytics (fictional) | 2023 - 2026
+Developed demand forecasting pipelines and monitored model drift for a simulated retail network.
+Data Science Associate | NexaMetric Research (fictional) | 2022 - 2023
+Built reproducible notebooks and model evaluation reports for classification experiments.
+PROJECTS
+Inventory Demand Forecaster - Benchmarked gradient boosting and LSTM models on synthetic weekly sales series;
+reported MAE by product group.
+Model Monitoring API - Deployed FastAPI inference service with drift statistics and scheduled retraining checks.
+EDUCATION
+M.Tech, Artificial Intelligence - fictional Southlake Institute (2022)
+TRAINING
+Practical MLOps Program - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R04,Kabir Sethi,Android Application Developer,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Kabir Sethi
+Android Application Developer | Jaipur, India | 3 years experience
+kabir_sethi@example.com | +91 90000 12411 | portfolio.example/kabir_sethi
+PROFILE
+Android Application Developer with 3 years of fictional professional experience, focused on practical delivery, team
+collaboration and measurable project outcomes.
+TECHNICAL SKILLS
+ Kotlin, Java, Android SDK, Jetpack Compose
+ Room Database, Retrofit, Coroutines, Flow
+ Firebase Authentication, FCM, MVVM
+ Espresso UI testing, Gradle, Git
+WORK EXPERIENCE
+Android Developer | PixelHarbor Mobile (fictional) | 2023 - 2026
+Shipped offline-first screens and push notification flows for a fictional field-service app.
+PROJECTS
+City Bus Companion - Built route bookmarks, local caching and notification preferences with Jetpack Compose.
+Expense Pocket - Created a Kotlin spending tracker with Room persistence and monthly summaries.
+EDUCATION
+B.Tech, Information Technology - fictional Crestview Institute (2023)
+TRAINING
+Android Architecture Workshop - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R05,Simran Kaur,Cybersecurity SOC Analyst,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Simran Kaur
+Cybersecurity SOC Analyst | Mohali, India | 2 years experience
+simran_kaur@example.com | +91 90000 12548 | portfolio.example/simran_kaur
+PROFILE
+Cybersecurity SOC Analyst with 2 years of fictional professional experience, focused on practical delivery, team
+collaboration and measurable project outcomes.
+TECHNICAL SKILLS
+ SIEM triage, Splunk, Microsoft Sentinel
+ Wireshark, Nmap, IDS alerts, MITRE ATT&CK
+ Python scripting, Bash, Linux, Windows event logs
+ Incident response, phishing analysis, vulnerability reporting
+WORK EXPERIENCE
+SOC Analyst | Pinecrest Cyber Defense (fictional) | 2024 - 2026
+Triaged suspicious sign-ins and endpoint alerts, documented incident timelines and improved escalation playbooks.
+PROJECTS
+Phishing Triage Lab - Created a safe mailbox dataset and rule-based indicators for identifying suspicious attachments.
+Network Alert Dashboard - Summarized Suricata events and packet metadata for a simulated office network.
+EDUCATION
+B.Sc, Cybersecurity - fictional Northfield Technical College (2024)
+TRAINING
+Security Operations Fundamentals - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R06,Arjun Desai,Business Intelligence Analyst,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Arjun Desai
+Business Intelligence Analyst | Mumbai, India | 5 years experience
+arjun_desai@example.com | +91 90000 12685 | portfolio.example/arjun_desai
+PROFILE
+Business Intelligence Analyst with 5 years of fictional professional experience, focused on practical delivery, team
+collaboration and measurable project outcomes.
+TECHNICAL SKILLS
+ SQL, Power BI, DAX, Power Query
+ Excel Power Pivot, Tableau, dimensional modeling
+ ETL validation, KPI definition, stakeholder reporting
+ Python pandas, A/B test interpretation
+WORK EXPERIENCE
+BI Analyst | DataSprout Retail (fictional) | 2022 - 2026
+Owned sales performance dashboards for a fictional multi-store business and automated weekly KPI refreshes.
+Reporting Associate | BeaconPoint Services (fictional) | 2021 - 2022
+Reconciled spreadsheet exports and standardized department-level metric definitions.
+PROJECTS
+Executive Sales Cockpit - Modeled star-schema sales data and authored DAX measures for margin, retention and product
+mix.
+Customer Cohort Explorer - Produced SQL cohort tables and visualized repeat-purchase trends.
+EDUCATION
+MBA, Business Analytics - fictional Harborview School (2021)
+TRAINING
+Power BI Reporting Specialist - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R07,Nisha Kapoor,QA Automation Engineer,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Nisha Kapoor
+QA Automation Engineer | Noida, India | 3 years experience
+nisha_kapoor@example.com | +91 90000 12822 | portfolio.example/nisha_kapoor
+PROFILE
+QA Automation Engineer with 3 years of fictional professional experience, focused on practical delivery, team collaboration
+and measurable project outcomes.
+TECHNICAL SKILLS
+ Java, Selenium WebDriver, TestNG
+ Playwright, Postman, REST Assured
+ Jenkins, Git, SQL, API contract testing
+ Test plans, regression suites, defect tracking
+WORK EXPERIENCE
+Automation QA Engineer | SilverOak Digital (fictional) | 2023 - 2026
+Expanded browser regression coverage and created API smoke tests for a simulated insurance portal.
+PROJECTS
+Cross-browser Test Framework - Developed page-object tests with parallel execution and HTML reporting.
+API Quality Gate - Wrote REST Assured tests for authentication, pagination and invalid input cases.
+EDUCATION
+B.Tech, Software Engineering - fictional Silverline University (2023)
+TRAINING
+Software Testing Automation Certificate - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R08,Vivek Sharma,Cloud DevOps Engineer,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Vivek Sharma
+Cloud DevOps Engineer | Gurugram, India | 4 years experience
+vivek_sharma@example.com | +91 90000 12959 | portfolio.example/vivek_sharma
+PROFILE
+Cloud DevOps Engineer with 4 years of fictional professional experience, focused on practical delivery, team collaboration
+and measurable project outcomes.
+TECHNICAL SKILLS
+ AWS EC2, S3, IAM, VPC, CloudWatch
+ Terraform, Docker, Kubernetes, Helm
+ Jenkins, GitHub Actions, Argo CD
+ Linux, Bash, Prometheus, Grafana
+WORK EXPERIENCE
+DevOps Engineer | SkyTrail Cloud (fictional) | 2022 - 2026
+Automated environment provisioning and built deployment pipelines for a fictional SaaS application.
+PROJECTS
+Infrastructure as Code Starter - Provisioned isolated VPC, compute and monitoring stacks with reusable Terraform
+modules.
+Deployment Health Monitor - Configured Prometheus alerts and Grafana dashboards for container services.
+EDUCATION
+B.Tech, Computer Engineering - fictional Summit Engineering College (2022)
+TRAINING
+Cloud Infrastructure Practitioner - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R09,Priya Nair,UX/UI Product Designer,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Priya Nair
+UX/UI Product Designer | Kochi, India | 4 years experience
+priya_nair@example.com | +91 90000 13096 | portfolio.example/priya_nair
+PROFILE
+UX/UI Product Designer with 4 years of fictional professional experience, focused on practical delivery, team collaboration
+and measurable project outcomes.
+TECHNICAL SKILLS
+ Figma, FigJam, Adobe Illustrator
+ User interviews, personas, usability testing
+ Wireframing, interactive prototypes, design systems
+ Accessibility audits, information architecture
+WORK EXPERIENCE
+Product Designer | AtlasPeak Experience (fictional) | 2023 - 2026
+Redesigned onboarding flows and maintained a component library for a fictional fintech dashboard.
+Junior UX Designer | BlueKite Creative (fictional) | 2022 - 2023
+Conducted moderated usability sessions and documented research findings.
+PROJECTS
+Accessible Banking Redesign - Created high-fidelity prototypes with keyboard-friendly navigation and improved task flows.
+Transit Ticketing Research - Synthesized interview notes into journey maps and tested two purchase-flow concepts.
+EDUCATION
+B.Des, Interaction Design - fictional Coastal Design Academy (2022)
+TRAINING
+Inclusive Design Workshop - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R10,Farhan Ali,Data Engineer,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Farhan Ali
+Data Engineer | Pune, India | 5 years experience
+farhan_ali@example.com | +91 90000 13233 | portfolio.example/farhan_ali
+PROFILE
+Data Engineer with 5 years of fictional professional experience, focused on practical delivery, team collaboration and
+measurable project outcomes.
+TECHNICAL SKILLS
+ Python, SQL, PySpark, Apache Spark
+ Airflow, dbt, Kafka, Delta Lake
+ Snowflake, AWS S3, Redshift
+ Data quality checks, partitioning, pipeline orchestration
+WORK EXPERIENCE
+Data Engineer | TestNest Data Systems (fictional) | 2022 - 2026
+Maintained batch ingestion pipelines and implemented freshness checks for fictional marketing datasets.
+ETL Developer | QuartzBridge Analytics (fictional) | 2021 - 2022
+Converted legacy SQL transformations into documented scheduled jobs.
+PROJECTS
+Streaming Clickstream Lakehouse - Processed synthetic click events with Kafka and Spark Structured Streaming.
+Data Quality Framework - Built schema checks, row-count reconciliation and anomaly alerts for warehouse loads.
+EDUCATION
+B.Tech, Information Systems - fictional Central Heights University (2021)
+TRAINING
+Modern Data Stack Training - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R11,Tanya Bansal,Technical Support Specialist,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Tanya Bansal
+Technical Support Specialist | Lucknow, India | 2 years experience
+tanya_bansal@example.com | +91 90000 13370 | portfolio.example/tanya_bansal
+PROFILE
+Technical Support Specialist with 2 years of fictional professional experience, focused on practical delivery, team
+collaboration and measurable project outcomes.
+TECHNICAL SKILLS
+ Windows 11, Microsoft 365, Active Directory
+ Ticketing systems, remote troubleshooting, DNS basics
+ Hardware diagnostics, endpoint setup, VPN support
+ Customer communication, documentation, SLA tracking
+WORK EXPERIENCE
+IT Support Associate | BrightOak Helpdesk (fictional) | 2024 - 2026
+Resolved desktop and account access incidents, maintained asset inventory and created self-service guides.
+PROJECTS
+Helpdesk Knowledge Base - Authored step-by-step solutions for frequent printer, VPN and account-lockout issues.
+Device Onboarding Checklist - Standardized laptop provisioning and account setup for a fictional 80-person office.
+EDUCATION
+B.Sc, Information Technology - fictional Lakeside College (2024)
+TRAINING
+IT Service Desk Foundations - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R12,Dev Patel,Python Backend Developer,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Dev Patel
+Python Backend Developer | Ahmedabad, India | 4 years experience
+dev_patel@example.com | +91 90000 13507 | portfolio.example/dev_patel
+PROFILE
+Python Backend Developer with 4 years of fictional professional experience, focused on practical delivery, team
+collaboration and measurable project outcomes.
+TECHNICAL SKILLS
+ Python, Django, Django REST Framework, FastAPI
+ PostgreSQL, Redis, Celery
+ Docker, Nginx, Linux, pytest
+ JWT, OAuth2, API pagination, Git
+WORK EXPERIENCE
+Python Backend Developer | OrbitNest Tech (fictional) | 2022 - 2026
+Built asynchronous report generation endpoints and secured APIs for a fictional subscription platform.
+PROJECTS
+Appointment Booking API - Developed Django REST services with availability rules, JWT login and Celery reminders.
+Document Processing Queue - Used Redis and Celery to process uploaded text files asynchronously.
+EDUCATION
+B.Tech, Computer Science - fictional Westhaven University (2022)
+TRAINING
+Advanced Python Web Services - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R13,Ishita Verma,Database Administrator,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Ishita Verma
+Database Administrator | Delhi, India | 7 years experience
+ishita_verma@example.com | +91 90000 13644 | portfolio.example/ishita_verma
+PROFILE
+Database Administrator with 7 years of fictional professional experience, focused on practical delivery, team collaboration
+and measurable project outcomes.
+TECHNICAL SKILLS
+ Oracle Database, PostgreSQL, SQL Server
+ Backup and recovery, replication, indexing
+ PL/SQL, stored procedures, query plans
+ Database monitoring, access controls, disaster recovery
+WORK EXPERIENCE
+Senior Database Administrator | NorthRiver Apps (fictional) | 2021 - 2026
+Maintained backup validation schedules and tuned reporting queries for a simulated enterprise ERP.
+Database Operations Engineer | Elmcrest Networks (fictional) | 2019 - 2021
+Handled schema changes, permissions reviews and database monitoring.
+PROJECTS
+Recovery Drill Automation - Scripted restore verification and documented recovery time objectives.
+Slow Query Investigation - Used execution plans and indexing to improve a synthetic invoice search workload.
+EDUCATION
+MCA - fictional Meridian Technical University (2019)
+TRAINING
+Database Administration Advanced Program - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R14,Sahil Gupta,Embedded Systems Engineer,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Sahil Gupta
+Embedded Systems Engineer | Indore, India | 3 years experience
+sahil_gupta@example.com | +91 90000 13781 | portfolio.example/sahil_gupta
+PROFILE
+Embedded Systems Engineer with 3 years of fictional professional experience, focused on practical delivery, team
+collaboration and measurable project outcomes.
+TECHNICAL SKILLS
+ C, C++, Embedded Linux, FreeRTOS
+ STM32, ESP32, UART, SPI, I2C
+ Oscilloscope, logic analyzer, PCB debugging
+ MQTT, sensor integration, unit testing
+WORK EXPERIENCE
+Embedded Engineer | AppMosaic Devices (fictional) | 2023 - 2026
+Developed firmware for sensor-based monitoring prototypes and investigated timing issues.
+PROJECTS
+Smart Greenhouse Controller - Programmed ESP32 sensor polling and MQTT telemetry with local fallback controls.
+Motor Health Logger - Built STM32 data capture firmware and serial diagnostics for vibration signals.
+EDUCATION
+B.Tech, Electronics and Communication - fictional Greenfield Engineering Institute (2023)
+TRAINING
+Real-Time Embedded Programming - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"
+R15,Ananya Bose,NLP Research Engineer,"SEEV AI - Synthetic Test Resume  |  Page 1
+ Ananya Bose
+NLP Research Engineer | Kolkata, India | 3 years experience
+ananya_bose@example.com | +91 90000 13918 | portfolio.example/ananya_bose
+PROFILE
+NLP Research Engineer with 3 years of fictional professional experience, focused on practical delivery, team collaboration
+and measurable project outcomes.
+TECHNICAL SKILLS
+ Python, PyTorch, Hugging Face Transformers
+ Sentence embeddings, FAISS, semantic search
+ spaCy, tokenization, evaluation metrics
+ FastAPI, vector databases, prompt evaluation
+WORK EXPERIENCE
+NLP Engineer | BirchPoint AI Lab (fictional) | 2023 - 2026
+Evaluated text retrieval pipelines and curated synthetic benchmark datasets for an internal knowledge search prototype.
+PROJECTS
+Patent Similarity Explorer - Indexed fictional invention abstracts with sentence embeddings and FAISS for ranked retrieval.
+Support Ticket Classifier - Fine-tuned a small transformer model and compared macro F1 against TF-IDF baselines.
+EDUCATION
+M.Sc, Artificial Intelligence - fictional Aurora Institute (2023)
+TRAINING
+Applied Natural Language Processing - fictional
+FICTIONAL SAMPLE RESUME | All people, employers, credentials and projects are invented for SEEV AI testing.
+"

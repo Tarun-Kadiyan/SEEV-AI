@@ -1,0 +1,7 @@
+jd_id,job_title,jd_text
+JD01,Java Backend Developer,"Develop Java Spring Boot microservices, REST APIs, PostgreSQL and MySQL queries. Use Docker, AWS, Git, JUnit, CI/CD and Kubernetes; 3+ years backend engineering."
+JD02,Frontend React Developer,"Build accessible responsive websites using JavaScript, TypeScript, React, CSS, HTML, Redux, Git, Jest and UI testing. Work with Figma prototypes."
+JD03,Machine Learning Engineer,"Build Python machine learning pipelines with scikit-learn, PyTorch, pandas, model evaluation, MLflow, FastAPI and Docker; experience with feature engineering."
+JD04,Cloud DevOps Engineer,"Maintain AWS infrastructure, Kubernetes clusters, Docker, Terraform, Linux, CI/CD pipelines, Jenkins, monitoring, Prometheus and Grafana."
+JD05,Data Engineer,"Design ETL pipelines with Python, SQL, Spark, PySpark, Airflow, dbt, Kafka, Snowflake, AWS S3 and data quality monitoring."
+JD06,UX Product Designer,"Design accessible user experiences using Figma, wireframes, interactive prototypes, usability testing, interviews, personas, design systems and information architecture."
